@@ -11,7 +11,7 @@ export default class HannyaRoller {
     this._el = el;
     this._text = text;
 
-    this._buildElements()
+    this._buildElements();
   }
 
   start () {
